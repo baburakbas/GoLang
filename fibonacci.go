@@ -12,7 +12,7 @@ func main() {
 		fmt.Println(toplam)
 		fibonacchi[0] = fibonacchi[1]
 		fibonacchi[1] = toplam
-
+		fmt.Println("Bunlar hep yalan dolan")
 	}
 
 }
